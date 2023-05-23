@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1682253007 source:c:\users\legion\desktop\高斯消去simd\gauss_simd\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Gauss_AVX.h"
+	"Gauss_serial.h"
+	"helper_utils.h"
+
+1682253026 c:\users\legion\desktop\高斯消去simd\gauss_simd\gauss_avx.h
+	<immintrin.h>
+	"helper_utils.h"
+
+1682209027 c:\users\legion\desktop\高斯消去simd\gauss_simd\gauss_serial.h
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<stdio.h>
+	<cmath>
+	<malloc.h>
+	"helper_utils.h"
+
+1682171481 c:\users\legion\desktop\高斯消去simd\gauss_simd\helper_utils.h
+	<iostream>
+	<iomanip>
+	<vector>
+	<random>
+
